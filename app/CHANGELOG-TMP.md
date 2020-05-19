@@ -10,8 +10,6 @@
 
 2385    19.05.2020  hbz-dev     Moe     Feature     Dashboard Änderung nach einem Umfrage Übertrag
 
-2508    19.05.2020  hbz-dev     Christian   Feature Informationen über Statistikverfügbarkeit
-
 2505    19.05.2020  hbz-dev     David   Feature     API 0.106 - Getrennte Berechtigungen für Datamanager
 
 2504    19.05.2020  rc1.3       Andreas Bug         Absturzfehler bei Anlegen der Musterdaten auf QA behoben
